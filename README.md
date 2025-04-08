@@ -5,15 +5,6 @@
 
 ---
 
-### 🌐 Connect with me:
-<p align="left">
-  <a href="https://dev.to/dev_k" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev_k" height="30" width="40" />
-  </a>
-</p>
-
----
-
 ### 🛠️ Languages and Tools:
 
 <p align="left">
